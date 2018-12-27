@@ -1,2 +1,1 @@
-# PacMAnAI
-Pac Man reinforcement learning
+# PacManAI
